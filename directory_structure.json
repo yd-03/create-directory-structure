@@ -1,0 +1,9 @@
+{
+  "my_microservices_project": {
+    ".": ["docker-compose.yml"],
+    "comment-service": ["app.py", "requirements.txt", "Dockerfile"],
+    "post-service": ["app.py", "requirements.txt", "Dockerfile"],
+    "search-service": ["app.py", "requirements.txt", "Dockerfile"],
+    "user-service": ["app.py", "requirements.txt", "Dockerfile"]
+  }
+}
